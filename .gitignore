@@ -23,6 +23,7 @@ output/
 *.csv
 *.json
 *.txt
+!requirements.txt
 
 # OS
 .DS_Store
