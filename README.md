@@ -44,7 +44,7 @@
 1. **Клонируйте репозиторий:**
 ```bash
 git clone https://github.com/CHUKEPC/fake-data-generator.git
-cd fake-data
+cd fake-data-generator
 ```
 
 2. **Установите зависимости:**
